@@ -1,0 +1,169 @@
+body{
+
+    background-size: 1220px;
+
+}
+
+h1{
+
+    font-size: 35px;
+
+    color: #ff0000;
+
+}
+
+h2{
+
+color: #ffffff;
+
+}
+
+p{
+
+    color: #ffffff;
+
+}
+
+.menu{
+
+    display: flex;
+
+        justify-content: space-between;
+
+        align-items: center;
+
+        background-color: #000000;
+}
+
+.logo{
+
+    width: 100px;
+
+}
+
+.menu ol li{
+
+    display: inline;
+
+        padding-right: 20px;
+
+}
+
+.menu ol li a{
+
+    color: #0000ff;
+
+        text-decoration: none;
+
+}
+
+.planetas{
+
+    background-image: url(fondoEspacio.png);
+
+        background-size: cover;
+
+}
+
+.planetas img{
+
+    width: 200px;
+
+}
+
+.principal-button{
+
+    width: 250px;
+
+        height: 40px;
+
+            background-color: #66cc00;
+
+                border-radius: 24px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+}
+
+.img{
+
+    width: 200px;
+
+}
+
+.contenedor1{
+
+display: flex;
+
+    background: #0000ff;
+
+        padding: 20px;
+
+            justify-content: space-around;
+
+}
+
+.contenedor2{
+display: flex;
+background: #ff0000;
+margin: 0;
+justify-content: center;
+align-items: center;
+padding: 20px;
+}
+.contenedor2 p{margin: 0;}
+.col1-contenedor1{
+
+width: 400px;
+
+}
+
+.col2-contenedor1{
+
+width: 200px;
+
+}
+
+.col3-contenedor1{
+
+width: 300px;
+
+}
+
+.logo1{
+
+    width: 30px;
+
+        height: 20px;
+
+}
+.correo{
+
+    display: flex;
+
+        align-items: center;
+}
+
+.logo3{
+
+    width: 30px;
+    
+        height: 20px;
+    
+}
+
+.redes{
+ 
+    align-items: center;
+
+        text-align: center;
+
+}
+
+.texto{
+
+    text-align: center;
+
+}
